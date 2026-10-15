@@ -1,0 +1,18 @@
+{
+  "project": "QuantumPools",
+  "website": "https://quantumpools.io",
+  "app": "https://app.quantumpools.io",
+  "network": {
+    "name": "BNB Smart Chain Mainnet",
+    "shortName": "bsc",
+    "chainId": 56,
+    "rpc": "https://bsc-dataseed.bnbchain.org",
+    "explorer": "https://bscscan.com"
+  },
+  "contracts": {
+    "pancakeSwapV3Vault": "0x9597f68203d1bc85744A5Fc11D890aA7777e386B",
+    "uniswapV3Vault": "0x57cB3160D59e967D3ac62620Fc69f7e0898d2690",
+    "timelock": "0xE0db1d799dB2FF5aC539B95C3299c8AF060B4088",
+    "safeMultisig": "0x00B3DCd95dDb5D1454dcbbfA6805e17f82244Ac1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "defaultNetwork": "bsc",
+  "networks": {
+    "bsc": { "url": "https://bsc-dataseed.bnbchain.org", "chainId": 56 }
+  }
+}
